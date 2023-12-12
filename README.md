@@ -2,7 +2,7 @@
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=🌟%20Software%20Developer%20🌟;&center=true&width=500&height=50"> -->
-<!--   </a> -->
+  </a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishoiyan-charity1&label=Profile%20views&color=0e75b6&style=flat" alt="kishoiyan-charity1" /> </p>
