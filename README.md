@@ -2,6 +2,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?lines=🌱%20Junior%20Software%20Developer%20on%20a%20coding%20adventure!%20|%20Eager%20to%20learn%20|%20Cat%20Cuddler%20🐱;">
+<img src="https://readme-typing-svg.herokuapp.com?lines=🌱%20 Frontend Fairy%20Software%20Developer%20on%20a%20coding%20adventure!%20|%20Eager%20to%20learn%20|%20Cat%20Cuddler%20🐱;">
+
 
   </a>
 </p>
